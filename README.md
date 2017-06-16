@@ -1,5 +1,7 @@
 # JonCraft Official Resource Pack
 
+All of this Resource pack automatically gets included in the server so keep that in mind
+
 ### Guide
 
 The `assets/minecraft` directory has all the data you need, the rest is self-explanatory.
