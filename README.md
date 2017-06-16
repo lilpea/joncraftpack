@@ -1,5 +1,4 @@
 # JonCraft Official Resource Pack
-===
 
 ## Guide
 
