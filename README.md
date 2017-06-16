@@ -1,5 +1,7 @@
 # JonCraft Official Resource Pack
 
+[Album with changed textures](http://imgur.com/a/pfXaE)
+
 All of this Resource pack automatically gets included in the server (it doesn't yet but soon will) so keep that in mind
 
 ### Guide
