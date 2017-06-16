@@ -1,6 +1,8 @@
 #JonCraft Official Resource Pack
 ===
 
+This resource pack will automatically get added to the server so keep that in mind
+
 ##Guide
 
 The `assets/minecraft` directory has all the data you need, the rest is self-explanatory.
