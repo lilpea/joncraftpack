@@ -1,6 +1,6 @@
 # JonCraft Official Resource Pack
 
-## Guide
+### Guide
 
 The `assets/minecraft` directory has all the data you need, the rest is self-explanatory.
 
