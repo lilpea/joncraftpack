@@ -1,5 +1,9 @@
 # JonCraft Official Resource Pack
 
+**WARNING: DON'T USE THIS RESOURCE PACK, IT'S MADE FOR THE SERVER ONLY**
+
+This isn't even the production one being used by the server, that's a separate repository all together
+
 [Album with changed textures](http://imgur.com/a/pfXaE)
 
 All of this Resource pack automatically gets included in the server (it doesn't yet but soon will) so keep that in mind
